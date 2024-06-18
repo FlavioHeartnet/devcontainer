@@ -1,0 +1,19 @@
+{
+  "name": "dockercontainer",
+  "version": "1.0.0",
+  "description": "test application to use containers as main tool for development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FlavioHeartnet/devcontainer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlavioHeartnet/devcontainer/issues"
+  },
+  "homepage": "https://github.com/FlavioHeartnet/devcontainer#readme"
+}
